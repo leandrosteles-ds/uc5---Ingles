@@ -19,7 +19,7 @@ I'M Hungry.  / Eu estou com Fome.
 You ARE very kind / Você é muito Gentil.
 My parentes ARE at Work. Meus Pais estão trabalhando.
 
-******* //EXERCICIO DE NEGAÇÃO// *****//
+*************** //EXERCICIO DE NEGAÇÃO// *****************//
 
 My Bhother IS NOT tired. / meu irmao não está cansado.
 they ARE NOT at school. / Eles ou Elas não estão na escola. 
@@ -27,24 +27,18 @@ I AM NOT very happy today. / Eu não estou muito Feliz Hoje.
 My dog IS NOT sleeping. / Meu cachorro não está dormindo.
 we ARE NOT ready for the test. / Nos não estamos prontos para o teste.
 
-*****//EXERCIO DE PERGUNTA //****//********
+***************//EXERCIO DE PERGUNTA //****//********
 You ARE my best friend. / Você é meu melhor amigo
-ARE you friend me Best
+ARE you my Best friend.
 
 The Children ARE playning outside. / As crianças estão brincando la fora.
-ARE children playning outside
+ARE THE children playning outside
 
 I'M from Brazil. / Ele é do Brasil.
+HE IS FROM BRASIL.
 
-She is a doctor. / Ela é uma Médica
+She is a doctor. / Ela é uma Médica.
+IS SHE A DOCTOR 
+
 My cat IS Black. / Meu Gato é Preto. 
-My Mother IS in The kitchen. / Minha mãe esta na cozinha.
-The teacherrs ARE in the Classromm / os professores estão na sala de Aula.
-He IS at Home now. / Ele esta em casa agora.
-HE IS a good student. / Ele é um bom estudante.
-It IS a beautiful day. / Está um dia Lindo
-My Friends and I ARE excited / Meu amigos e eu estamos animados 
-The Book IS on the Table. / O livro esta sobre a mesa.
-I'M Hungry.  / Eu estou com Fome.
-You ARE very kind / Você é muito Gentil.
-My parentes ARE at Work. Meus Pais estão trabalhando.
+IS MY CAT BLACK
